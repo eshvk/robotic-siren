@@ -10,5 +10,5 @@ a better recommender.
 
 Refer [this][siren] for an explanation of the name. 
 
-[kaggle] : http://www.kaggle.com/c/msdchallenge
-[siren] : http://en.wikipedia.org/wiki/Siren
+[kaggle]: http://www.kaggle.com/c/msdchallenge
+[siren]: http://en.wikipedia.org/wiki/Siren
